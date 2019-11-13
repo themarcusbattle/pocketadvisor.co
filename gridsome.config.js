@@ -7,7 +7,7 @@
 const tailwindcss = require("tailwindcss")
 
 module.exports = {
-  siteName: 'Pocket',
+  siteName: 'Pocket Advisor',
   plugins: [],
   css: {
     loaderOptions: {
