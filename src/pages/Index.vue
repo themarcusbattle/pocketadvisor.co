@@ -39,7 +39,7 @@
 					<li class="bg-white p-5 rounded shadow-md mb-8 border-gray-100"><span class="inline-block bg-gray-600 text-white h-10 w-10 text-center pt-1 text-xl mr-5 rounded-full">2</span>Select your prefered group to join</li>
 					<li class="bg-white p-5 rounded shadow-md mb-8 border-gray-100"><span class="inline-block bg-gray-600 text-white h-10 w-10 text-center pt-1 text-xl mr-5 rounded-full">3</span>Get proactive real-time advice</li>
 				</ul>
-				<a class="bg-orange-brand py-3 px-10 rounded text-white hover:bg-gray-700 cursor-pointer">Sign Up</a>
+				<a class="bg-orange-brand py-3 px-10 rounded text-white hover:bg-gray-700 cursor-pointer" href="https://capitalwize.activehosted.com/f/3">Notify Me of Launch →</a>
 			</div>
 		</div>
 
@@ -100,7 +100,7 @@
 					</tr>
 				</tbody>
 			</table>
-			<a class="bg-orange-brand py-3 px-10 rounded text-white inline-block hover:bg-gray-700 cursor-pointer">Sign Up</a>
+			<a class="bg-orange-brand py-3 px-10 rounded text-white inline-block hover:bg-gray-700 cursor-pointer" href="https://capitalwize.activehosted.com/f/3">Notify Me of Launch →</a>
 		</div>
 
 		<div class="p-16 bg-gray-900 text-center">
