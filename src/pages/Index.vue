@@ -8,26 +8,26 @@
 			<g-image src="~/assets/images/pocket-advisor-mockup-pay-day.png" class="mx-auto w-xl sm:w-1/3" />
 		</div>
 
-		<div id="reasons" class="p-10 sm:p-24 text-center bg-orange-brand">
+		<div id="reasons" class="px-5 py-10 sm:p-24 text-center bg-orange-brand">
 			<h2 class="text-4xl mb-5 leading-tight text-white">Private Social Network, Powered by SMS</h2>
 			<p class="text-gray-700 w-2/3 mx-auto mb-10">More than proactive financial SMS alerts, Pocket Advisor equips you with a private social network to get the one-on-one support you need to reach your financial goals.</p>
 			<div class="md:flex text-left">
-				<div class="lg:flex-1 bg-white rounded shadow-2xl p-10 m-10">
+				<div class="lg:flex-1 bg-white rounded shadow-2xl p-10 mb-10 sm:m-10">
 					<h3 class="text-xl mb-10 font-black"><span class="bg-gray-600 w-2 h-2 rounded"></span>Proactive</h3>
 					<p class="text-gray-600">Most financial apps now days are reactive. Telling you about what already happened.  Pocket Advisor helps you make the decision before it happens.</p>
 				</div>
-				<div class="lg:flex-1 bg-white rounded shadow-2xl p-10 m-10">
+				<div class="lg:flex-1 bg-white rounded shadow-2xl p-10 mb-10 sm:m-10">
 					<h3 class="text-xl mb-10 font-black">Personal</h3>
 					<p class="text-gray-600">Pocket Advisor uses its simple two-way messaging feature to learn more about you so that with each tip, insight, or guidance becomes more tailor-made as time goes on.</p>
 				</div>
-				<div class="lg:flex-1 bg-white rounded shadow-2xl p-10 m-10">
+				<div class="lg:flex-1 bg-white rounded shadow-2xl p-10 mb-10 sm:m-10">
 					<h3 class="text-xl mb-10 font-black">Practical</h3>
 					<p class="text-gray-600">Pocket Advisor is powered by the one thing we know you see every day, SMS. We come to you with valuable but simple tips, so you don’t have to remember to come to us.</p>
 				</div>
 			</div>
 		</div>
 
-		<div class="p-10 sm:p-24 md:flex bg-gray-200">
+		<div class="px-5 py-10  sm:p-24 md:flex bg-gray-200">
 			<div class="flex-1">
 				<g-image src="~/assets/images/iphone-sms-mockup-2.png" class="mx-auto" />
 			</div>
@@ -43,9 +43,9 @@
 			</div>
 		</div>
 
-		<div class="p-10 sm:p-24 text-center">
+		<div class="px-5 py-10 sm:p-24 text-center">
 			<h2 class="text-4xl mb-10">Pricing</h2>
-			<table class="table-fixed mx-auto md:w-2/3 shadow-md rounded mb-20">
+			<table class="table-fixed mx-auto w-full md:w-2/3 shadow-md rounded mb-20 overflow-x sm:overflow-auto">
 				<thead>
 					<tr>
 					<th class="w-1/3 px-4 py-10 border rounded">
