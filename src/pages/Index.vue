@@ -4,13 +4,16 @@
 		<div id="hero" class="text-center bg-cover bg-bottom bg-center pt-10">
 			<g-image src="~/assets/images/pocket-advisor-logo.png" class="mx-auto mb-12 w-1/2 lg:w-1/4" />
 			<h1 class="text-3xl md:text-5xl leading-tight text-white mb-5 font-black">Real Advi¢e. In Real-Time.<br />From a Real Advisor.</h1>
-			<p class="text-gray-700 w-2/3 sm:w-1/2 mx-auto">Imagine someone knowing your financial goals and habits, proactively helping you before a not-so-smart financial situation. That's Pocket Advisor!</p>
+			<p class="text-gray-700 w-2/3 sm:w-1/2 mx-auto text-orange-brand">Imagine someone knowing your financial goals and habits, proactively helping you before a not-so-smart financial situation. That's Pocket Advisor!</p>
 			<g-image src="~/assets/images/pocket-advisor-mockup-pay-day.png" class="mx-auto w-xl sm:w-1/3" />
 		</div>
 
 		<div id="reasons" class="px-5 py-10 sm:p-24 text-center bg-orange-brand">
 			<h2 class="text-4xl mb-5 leading-tight text-white">Private Social Network, Powered by SMS</h2>
-			<p class="text-gray-700 w-2/3 mx-auto mb-10">More than proactive financial SMS alerts, Pocket Advisor equips you with a private social network to get the one-on-one support you need to reach your financial goals.</p>
+			<div class="w-2/3 mx-auto">
+				<p class="text-gray-800 w-2/3 mx-auto mb-10">More than proactive financial SMS alerts, Pocket Advisor equips you with a private social network to get the one-on-one support you need to reach your financial goals.</p>
+				<p class="text-gray-800 w-2/3 mx-auto mb-10">Most financial tools do not take into account the emotional side of money. They simply tell you what you should or should not do, regardless of how it fits into your lifestyle and what you are currently experiencing. Pocket Advisor aims to be human-friendly and not just send you notifications about your over spending habits, but you help guide you into making decisions that still feel right for you and your lifestyle.</p>
+			</div>
 			<div class="md:flex text-left">
 				<div class="lg:flex-1 bg-white rounded shadow-2xl p-10 mb-10 sm:m-10">
 					<h3 class="text-xl mb-10 font-black"><span class="bg-gray-600 w-2 h-2 rounded"></span>Proactive</h3>
@@ -48,55 +51,84 @@
 			<table class="table-fixed mx-auto w-full md:w-2/3 shadow-md rounded mb-20 overflow-x sm:overflow-auto">
 				<thead>
 					<tr>
-					<th class="w-1/3 px-4 py-10 border rounded">
-						<h3 class="text-xl mb-2">Standard</h3>
-						<span class="text-orange-brand">Free</span>
-					</th>
-					<th class="w-1/3 px-4 py-10 border rounded">
-						<h3 class="text-xl mb-2">Pro</h3>
-						<span class="text-orange-brand">$4.99</span>
-					</th>
-					<th class="w-1/3 px-4 py-10 border rounded">
-						<h3 class="text-xl mb-2">Premium</h3>
-						<span class="text-orange-brand">$9.99</span>
-					</th>
+						<th class="w-1/3 px-4 py-10 border rounded">
+							<h3 class="text-xl mb-2"></h3>
+							<span class="text-orange-brand"></span>
+						</th>
+						<th class="w-1/3 px-4 py-10 border rounded">
+							<h3 class="text-xl mb-2">Lite</h3>
+							<span class="text-orange-brand">Free</span>
+						</th>
+						<th class="w-1/3 px-4 py-10 border rounded">
+							<h3 class="text-xl mb-2">Standard</h3>
+							<span class="text-orange-brand">$4.99</span>
+						</th>
+						<th class="w-1/3 px-4 py-10 border rounded">
+							<h3 class="text-xl mb-2">Pro</h3>
+							<span class="text-orange-brand">$9.99</span>
+						</th>
 					</tr>
 				</thead>
 				<tbody class="text-gray-600">
 					<tr>
-						<td class="border-r px-4 py-4">1 Proactive financial insight per week</td>
-						<td class="border-r px-4 py-4">3 Proactive Financial Insights per week</td>
-						<td class=" px-4 py-4">Unlimited Proactive Financial Insights per week</td>
+						<td class="border-r px-4 py-4">Money Mindset Advice - Real-time advice designed to put you in the right head-space to align your behaviors with your goals.</td>
+						<td class="border-r px-4 py-4">X</td>
+						<td class="border-r px-4 py-4">X</td>
+						<td class=" px-4 py-4">X</td>
 					</tr>
 					<tr>
-						<td class="border-r px-4 py-4">1 Personalized Money Preference</td>
-						<td class="border-r px-4 py-4">3 Personalized Money Preference</td>
-						<td class="px-4 py-4">Unlimited Personalized Money Preferences</td>
+						<td class="border-r px-4 py-4">Smart Spender - Real-time guidance on overall smart spending decisions</td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="border-r px-4 py-4">X</td>
+						<td class="px-4 py-4">X</td>
 					</tr>
 					<tr>
-						<td class="border-r px-4 py-4">Two-way messaging support</td>
-						<td class="border-r px-4 py-4">Two-way messaging support</td>
-						<td class=" px-4 py-4">Two-way messaging support</td>
+						<td class="border-r px-4 py-4">Super Saver - Real-time guidance on helping you save more money</td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="border-r px-4 py-4">X</td>
+						<td class=" px-4 py-4">X</td>
 					</tr>
 					<tr>
-						<td class="border-r px-4 py-4 bg-gray-100">X</td>
-						<td class="border-r px-4 py-4">Access to premium Content</td>
-						<td class=" px-4 py-4">Access to premium Content</td>
+						<td class="border-r px-4 py-4">Intelligent Investor - Real-time guidance on investing</td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class=" px-4 py-4">X</td>
 					</tr>
 					<tr>
-						<td class="border-r px-4 py-4 bg-gray-100">X</td>
-						<td class="border-r px-4 py-4">Geo-specific deals and discounts</td>
-						<td class=" px-4 py-4">Geo-specific deals and discounts</td>
+						<td class="border-r px-4 py-4">Business Boss - Real-time advice designed exclusively for business owners ready level up</td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class=" px-4 py-4">X</td>
 					</tr>
 					<tr>
-						<td class="border-r px-4 py-2 bg-gray-100">X</td>
-						<td class="border-r px-4 py-4">Goal tracking</td>
-						<td class=" px-4 py-4">Goal tracking</td>
+						<td class="border-r px-4 py-4">Delete Your Debt - Advice designed to help you get out of debt the right way, saving you time and money.</td>
+						<td class="border-r px-4 py-2 bg-gray-100"></td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class=" px-4 py-4">X</td>
 					</tr>
 					<tr>
-						<td class="border-r px-4 py-4 bg-gray-100">X</td>
-						<td class="border-r px-4 py-4"><span class="italic">Coming Soon</span> connect 1 bank account for real-time advice driven by account activity</td>
-						<td class=" px-4 py-4"><span class="italic">Coming Soon</span> connect 1 bank account for real-time advice driven by account activity</td>
+						<td class="border-r px-4 py-4">Food For Thought - Real-time Guidance on preventing you from spending too much money on food</td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="px-4 py-4">X</td>
+					</tr>
+					<tr>
+						<td class="border-r px-4 py-4">Love and Money - Real-time advice designed specifically for couples</td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="px-4 py-4">X</td>
+					</tr>
+					<tr>
+						<td class="border-r px-4 py-4">Family First - Real-time advice designed specifically for families</td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="px-4 py-4">X</td>
+					</tr>
+					<tr>
+						<td class="border-r px-4 py-4">Credit Hacks - Real-time advice to help you improve and maximize your credit</td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="border-r px-4 py-4 bg-gray-100"></td>
+						<td class="px-4 py-4">X</td>
 					</tr>
 				</tbody>
 			</table>
@@ -105,7 +137,7 @@
 
 		<div class="p-16 bg-gray-900 text-center">
 			<g-image src="~/assets/images/pocket-advisor-logo.png" class="mx-auto mb-4 w-1/2 lg:w-1/4" />
-			<p class="text-gray-700">&copy; 2019. <a href="https://capitalwize.co/" class="text-orange-400">Acheampong Enterprises, LLC</a>. All rights reserved. Powered by <a href="https://tekst.co" class="text-orange-400 hover:text-gray-100">Tekst</a>.</p>
+			<p class="text-gray-700">&copy; 2019. <a href="http://georgeacheampong.com/" class="text-orange-400">Acheampong Enterprises, LLC</a>. All rights reserved. Powered by <a href="https://tekst.co" class="text-orange-400 hover:text-gray-100">Tekst</a>.</p>
 		</div>
 	</Layout>
 </template>
